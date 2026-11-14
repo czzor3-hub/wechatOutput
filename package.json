@@ -75,7 +75,8 @@
     "use-stick-to-bottom": "^1.1.6",
     "wechat-emojis": "^1.0.2",
     "zod": "^4.6.7",
-    "zustand": "^5.0.14"
+    "zustand": "^5.0.14",
+    "@lobehub/ui": "^1.148.0",
   },
   "devDependencies": {
     "@electron/rebuild": "^4.1.0",
